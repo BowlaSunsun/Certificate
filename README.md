@@ -123,6 +123,9 @@ This folder contains various certificates related to Data Science, including mac
 - [Essential SQL for Everyone](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/borntodev-academy_Essential%20SQL%20for%20Everyone_certificate.png)
 - [GitHub for Developer](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/borntodev-academy_GitHub%20for%20Developer%20_certificate.png)
 
+### 🏅 Borntodev.pdf
+- [I San Speak English in 30 Days Online Course]
+
 ## 🛠 Skills
 Spreadsheets, SQL, R Programming,  Python for Data Analyst, Machine Learning for Data Analyst, Dashboard, Statistics, Economic, Business & Marketing, A/B Testing
 
